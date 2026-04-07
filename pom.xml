@@ -1,0 +1,21 @@
+springboot-ecommerce-api/
+│── src/main/java/com/ecommerce/
+│   ├── controller/
+│   │   ├── ProductController.java
+│   │   ├── AuthController.java
+│   ├── service/
+│   │   ├── ProductService.java
+│   │   ├── AuthService.java
+│   ├── repository/
+│   │   ├── ProductRepository.java
+│   │   ├── UserRepository.java
+│   ├── model/
+│   │   ├── Product.java
+│   │   ├── User.java
+│   ├── security/
+│   │   ├── JwtUtil.java
+│   │   ├── SecurityConfig.java
+│── src/main/resources/
+│   ├── application.properties
+│── pom.xml
+│── README.md
